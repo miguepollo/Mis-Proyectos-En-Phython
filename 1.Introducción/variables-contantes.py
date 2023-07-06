@@ -34,3 +34,10 @@ pi = 3.14
 
 print(pi)
 
+textovariable = "hola"
+
+print(textovariable)
+
+time.sleep(1)
+
+textovariable = "adios"

@@ -1,4 +1,7 @@
 apellido = "garcia pelaéz"
+numero = 67+4
 
-print(type(apellido))
 print(apellido)
+print(type(apellido))
+print(numero)
+print(type(numero))

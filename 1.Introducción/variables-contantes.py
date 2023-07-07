@@ -41,3 +41,11 @@ print(textovariable)
 time.sleep(1)
 
 textovariable = "adios"
+
+print(textovariable)
+
+time.sleep(1)
+
+textovariable = "que tal?"
+
+print(textovariable)

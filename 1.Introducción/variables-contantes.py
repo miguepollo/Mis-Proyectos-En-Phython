@@ -1,18 +1,18 @@
 import time
 
-Personas = 89
+Personas = 89+8
 
 print(Personas)
 
 time.sleep(1.5)
 
-Personas = 67
+Personas = 67*5
 
 print(Personas)
 
 time.sleep(1.5)
 
-Personas = 140
+Personas = 140-48
 
 print(Personas)
 

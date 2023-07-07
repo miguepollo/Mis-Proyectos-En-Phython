@@ -4,3 +4,12 @@ print(marcamicroondas) #estoy imprimiendo marcamicroondas por la consola.
 
 
 #comentario:)
+
+'''
+comen
+tario
+de
+muchas
+demasiadas
+lineas
+'''

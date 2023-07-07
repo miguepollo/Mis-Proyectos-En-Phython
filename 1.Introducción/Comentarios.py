@@ -16,6 +16,8 @@ demasiadas
 lineas
 '''
 
-marcamicroondas = "hisense"
+marcamicroondas , marcalavadora = "hisense" , "beko"
 
 print (marcamicroondas)
+time.sleep(1)
+print(marcalavadora)

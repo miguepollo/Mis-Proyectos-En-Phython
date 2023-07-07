@@ -1,3 +1,3 @@
 marcamicroondas = "beko" # esta el la marca del microondas
 
-print(marcamicroondas)
+print(marcamicroondas) #estoy imprimiendo marcamicroondas por la consola.

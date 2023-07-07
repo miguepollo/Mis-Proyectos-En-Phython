@@ -1,1 +1,1 @@
-marcamicroondas = "beko"
+marcamicroondas = "beko" # esta el la marca del microondas

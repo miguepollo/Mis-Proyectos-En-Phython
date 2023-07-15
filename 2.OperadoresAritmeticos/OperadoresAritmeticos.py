@@ -4,3 +4,4 @@ print(56*7)
 print(75 / 9)
 
 print(2 ** 3)
+print(75 // 9)

@@ -5,3 +5,5 @@ print(75 / 9)
 
 print(2 ** 3)
 print(75 // 9)
+
+print(100%100)

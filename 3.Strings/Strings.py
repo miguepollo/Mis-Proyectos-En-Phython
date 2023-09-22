@@ -33,3 +33,9 @@ time.sleep(1)
 cadenatexto6 = "Esto es un ejemplo de cadena  \rde texto6"#Nueva funcion que elimina y cambia caracteres
 
 print(cadenatexto6)
+
+time.sleep(1)
+
+cadenatexto7 = "Esto es un ejemplo de cadena  \vde texto7"#Nueva funcion que coloca un simbolo raro
+
+print(cadenatexto7)

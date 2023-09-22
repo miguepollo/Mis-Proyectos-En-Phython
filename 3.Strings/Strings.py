@@ -21,3 +21,9 @@ time.sleep(3)
 cadenatexto4 = "Esto es un ejemplo de \bcadena  \bde texto4"# Nueva funcion que quita los espacios
 
 print(cadenatexto4)
+
+time.sleep(3)
+
+cadenatexto5 = "Esto es un ejemplo de \fcadena  \fde texto5"# Nueva funcion que coloca un simbolo raro
+
+print(cadenatexto5)

@@ -27,3 +27,9 @@ time.sleep(3)
 cadenatexto5 = "Esto es un ejemplo de \fcadena  \fde texto5"# Nueva funcion que coloca un simbolo raro
 
 print(cadenatexto5)
+
+time.sleep(3)
+
+cadenatexto6 = "Esto es un ejemplo de cadena  \rde texto6"# Nueva funcion que elimina y cambia caracteres
+
+print(cadenatexto6)

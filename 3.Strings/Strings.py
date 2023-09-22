@@ -30,6 +30,6 @@ print(cadenatexto5)
 
 time.sleep(1)
 
-cadenatexto6 = "Esto es un ejemplo de cadena  \rde texto6"# Nueva funcion que elimina y cambia caracteres
+cadenatexto6 = "Esto es un ejemplo de cadena  \rde texto6"#Nueva funcion que elimina y cambia caracteres
 
 print(cadenatexto6)

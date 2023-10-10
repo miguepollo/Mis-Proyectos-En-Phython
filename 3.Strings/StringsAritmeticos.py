@@ -1,1 +1,2 @@
-cadena = ("hola pagizo")
+cadena = "hola pagizo"
+cadena = "rojizo"
